@@ -32,7 +32,7 @@ const Banner = () => {
       style={{
         backgroundSize: "cover",
         backgroundImage: `url(${backgroundImage})`,
-        backgroundPosition: "center",
+        backgroundPosition: "top",
       }}
     >
       <div className="bannerh_contents">
